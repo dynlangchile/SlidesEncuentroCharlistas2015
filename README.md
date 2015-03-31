@@ -8,3 +8,5 @@ Slides del encuentro de charlistas (Evento 28 de Marzo 2015):
 - [¿Qué y Cómo probar?](https://docs.google.com/presentation/d/1cANych7EMfUCfKh5rXFbI5XdnwTWFuoOH3xCEYWdda4/pub#slide=id.gacb70dded_3_0). Por [Alejandro Varas](http://www.alejandrovaras.me/). Ingeniero DevOps en [Medularis](http://www.medularis.com/).
 
 - [deis.io: PaaS OpenSource](http://aledbf.github.io/deis-encuentro-charlistas-2015). Por [Alejandro de Brito Fontes](http://twitter.com/aledbf), CTO en SOFICOM.
+
+- [Bitcoin es más que dinero: sacándole el jugo a la cadena de bloques](http://www.slideshare.net/philippecamacho/bitcoin-es-ms-que-dinero-sacandole-el-jugo-a-la-cadena-de-bloques). Por [Philippe Camacho](https://cl.linkedin.com/pub/philippe-camacho-ph-d/2/19/b5/en). Ingeniero I+D en [Synaptic](http://www.synaptic.cl/).
