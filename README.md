@@ -10,3 +10,5 @@ Slides del encuentro de charlistas (Evento 28 de Marzo 2015):
 - [deis.io: PaaS OpenSource](http://aledbf.github.io/deis-encuentro-charlistas-2015). Por [Alejandro de Brito Fontes](http://twitter.com/aledbf), CTO en SOFICOM.
 
 - [Bitcoin es más que dinero: sacándole el jugo a la cadena de bloques](http://www.slideshare.net/philippecamacho/bitcoin-es-ms-que-dinero-sacandole-el-jugo-a-la-cadena-de-bloques). Por [Philippe Camacho](https://cl.linkedin.com/pub/philippe-camacho-ph-d/2/19/b5/en). Ingeniero I+D en [Synaptic](http://www.synaptic.cl/).
+
+- [Trucos Sucios de un CTO](https://s3.amazonaws.com/presentaciones-dperezrada/trucos-sucios/index.html). Por [Daniel Pérez Rada](https://twitter.com/dperezrada). CTO [iMetricas](http://www.imetricas.com/) y Director [Epistemonikos](www.epistemonikos.org).
