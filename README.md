@@ -14,3 +14,5 @@ Slides del encuentro de charlistas (Evento 28 de Marzo 2015):
 - [Trucos Sucios de un CTO](https://s3.amazonaws.com/presentaciones-dperezrada/trucos-sucios/index.html). Por [Daniel Pérez Rada](https://twitter.com/dperezrada). CTO [iMetricas](http://www.imetricas.com/) y Director [Epistemonikos](www.epistemonikos.org).
 
 - [Lo Nuevo de Django 1.7 y 1.8](https://drive.google.com/file/d/0BzfAN59IvYV-MGdTZ04teWRKelU/view?usp=sharing). Por [Pedro Burón](http://github.com/pedroburon). Founder en PythonChile.
+
+- [De Lenguajes, Estilo, Arquitectura y Bagatelas](http://www.slideshare.net/EduardoDiazCortes/de-lenguajes-estilo-arquitectura-y-bagatelas). Por [Eduardo Díaz](http://www.lnds.net/). Subgerente Tecnología en Previred.
