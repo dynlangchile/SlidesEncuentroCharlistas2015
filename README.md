@@ -19,3 +19,7 @@ Slides del encuentro de charlistas (Evento 28 de Marzo 2015):
 
 - [Discovering supernova with Python*](https://drive.google.com/file/d/0BzfAN59IvYV-dlZMSkk4Ukk4RjA/view?usp=sharing). Por Francisco Förster. Astrónomo en CMM.
 
+- [Python Full Stack (?)](http://goo.gl/PoRaBL). Por [Alvaro Aguirre](http://twitter.com/alvaro_aguirre). Software Engineer en [ALMA](http://www.almascience.org).
+ 
+
+
