@@ -19,3 +19,5 @@ Slides del encuentro de charlistas (Evento 28 de Marzo 2015):
 
 - [Discovering supernova with Python*](https://drive.google.com/file/d/0BzfAN59IvYV-dlZMSkk4Ukk4RjA/view?usp=sharing). Por Francisco Förster. Astrónomo en CMM.
 
+- [Clusterizando Docker con
+kubernetes*](https://speakerdeck.com/sirspock/clusterizando-docker-con-kubernetes). Por Maximiliano Osorio. DevOps en Linets
